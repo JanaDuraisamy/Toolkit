@@ -648,7 +648,7 @@ python CodePolish.py "path/to/project"
 Example:
 
 ```bash
-python CodePolish.py "P:\Jana\Training Tasks\college eligiblity check"
+python CodePolish.py "P:\Jana\Training\college-project"
 ```
 
 ---
