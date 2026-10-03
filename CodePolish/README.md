@@ -742,11 +742,11 @@ For detailed installation instructions, formatter requirements, platform-specifi
 
 ---
 
-# 🎬 Demo
+## 🎬 Demo
 
 ![CodePolish Demo](assets/demo.gif)
 
-The demo will show a real CodePolish run including:
+The demo shows a real CodePolish run including:
 
 ```text
 Project Scan
@@ -760,11 +760,6 @@ Formatter Setup
 File Formatting
      ↓
 Final Summary
-```
-
-The repository will include an actual terminal recording rather than a simulated demo.
-
----
 
 # 🗺️ Roadmap
 
