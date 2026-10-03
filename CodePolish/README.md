@@ -744,7 +744,7 @@ For detailed installation instructions, formatter requirements, platform-specifi
 
 ## 🎬 Demo
 
-![CodePolish Demo](assets/demo.gif)
+[CodePolish Demo](assets/demo.gif)
 
 The demo shows a real CodePolish run including:
 
